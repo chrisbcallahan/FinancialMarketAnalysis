@@ -1,5 +1,7 @@
 Chris Callahan
 CSCI 2720
+Purpose:  This program simulates a bank with a limited number of tellers. When a teller is free, a customer who is in the waiting queue is helped by the open teller. 
+
 Submmission date: 3/19/2017
 
 To clean: $ make clean
