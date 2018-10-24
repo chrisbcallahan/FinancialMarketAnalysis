@@ -1,1 +1,4 @@
-# Chris Callahan - Project Repository #
+
+Python Financial Market analysis and simulation tools
+By: Chris Callahan
+CSCI 4210
